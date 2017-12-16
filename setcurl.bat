@@ -1,0 +1,1 @@
+set path=C:\unzipped\curl-7.40.0-openssl-libssh2-zlib-x64;%path%
